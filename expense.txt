@@ -1,0 +1,10 @@
+25/05/2026,Food,1000.0,burger and fires
+25/05/2026,Shopping,4000.01,shirt per
+26/05/2026,Travel,1100.0,petrol and cng
+28 May 2026 ,Food,1000.0,kfc
+28 May 2026 ,Food,2000.0,
+28/05/2026,Food,1000.0,KFC
+25/05/2026,Travel,1000.0,kal se saving paka 
+25/05/2026,Travel,1000.0,kal se saving paka 
+02/06/2026,Travel,170.0,metro plus auto 
+02/06/2026,Other,1000.0,i give to santosh
